@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Leonardo Bezerra Lima</h1>
+<h1 align="center">Leonardo Bezerra Lima</h1>
 <h3 align="center">Eu sou um programador e amante da ciência e filosofia</h3>
 
 - 🌱 Atualmente estou estudando **Node.JS e SQL**
