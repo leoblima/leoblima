@@ -1,5 +1,5 @@
 <h1 align="center">Leonardo Bezerra Lima</h1>
-<h3 align="center">Eu sou um programador e amante da ciência e filosofia</h3>
+<h3 align="center">Eu sou amante da ciência, filosofia e programação</h3>
 
 - 🌱 Atualmente estou estudando **Node.JS e SQL**
 
