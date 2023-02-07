@@ -5,7 +5,7 @@
 
 - 📝 Eu normalmente escrevo para o meu linkedin [https://www.linkedin.com/in/leonardo-b-lima/](https://www.linkedin.com/in/leonardo-b-lima/)
 
-- 💬 Me pergunte sobre **lógica, javascript, C++, React, Redux e Python**
+- 💬 Me pergunte sobre **lógica, javascript, C++, React, Redux e Python, typescript**
 
 - 📫 Me encontre pelo email: **leoblima00@gmail.com**
 
