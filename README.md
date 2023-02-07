@@ -1,7 +1,7 @@
 <h1 align="center">Leonardo Bezerra Lima</h1>
 <h3 align="center">Eu sou amante da ciência, filosofia e programação</h3>
 
-- 🌱 Atualmente estou estudando **Node.JS e SQL**
+- 🌱 Atualmente estou estudando *Python e Web Security**
 
 - 📝 Eu normalmente escrevo para o meu linkedin [https://www.linkedin.com/in/leonardo-b-lima/](https://www.linkedin.com/in/leonardo-b-lima/)
 
